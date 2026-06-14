@@ -1,0 +1,18 @@
+{
+  "dailyQuests": [
+    {
+      "title": "Test",
+      "description": "",
+      "xpReward": 5,
+      "status": "DONE"
+    }
+  ],
+  "oneTimeQuests": [
+    {
+      "title": "test 2",
+      "description": "",
+      "xpReward": 150,
+      "status": "DONE"
+    }
+  ]
+}

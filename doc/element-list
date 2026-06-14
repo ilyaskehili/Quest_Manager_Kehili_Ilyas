@@ -1,0 +1,6 @@
+com.questmanager
+com.questmanager.controller
+com.questmanager.exception
+com.questmanager.model
+com.questmanager.repository
+com.questmanager.view
